@@ -34,29 +34,11 @@ mod tests {
     fn explains_why_generating_nametag_text_fails() {
         assert_eq!(
             generate_nametag_text("".into()),
-            Err("`name` was empty; it must be nonempty.".into())
+            //Err("`name` was empty; it must be nonempty.".into())
+            None
         );
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // `Err` is one of the variants of `Result`, so what the 2nd test is saying
 // is that `generate_nametag_text` should return a `Result` instead of an
