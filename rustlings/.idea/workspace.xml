@@ -21,6 +21,10 @@
       <change beforePath="$PROJECT_DIR$/exercises/functions/functions4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/functions/functions4.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/functions/functions5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/functions/functions5.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/if/if1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/if/if1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/macros/macros1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/macros/macros1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/macros/macros2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/macros/macros2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/modules/modules1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/modules/modules1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/modules/modules2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/modules/modules2.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/primitive_types/primitive_types1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/primitive_types/primitive_types1.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/primitive_types/primitive_types2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/primitive_types/primitive_types2.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/primitive_types/primitive_types3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/primitive_types/primitive_types3.rs" afterDir="false" />
@@ -32,6 +36,7 @@
       <change beforePath="$PROJECT_DIR$/exercises/structs/structs1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/structs/structs1.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/test1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/test1.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/test2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/test2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/test3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/test3.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/tests/tests1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/tests/tests1.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/tests/tests2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/tests/tests2.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/tests/tests3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/tests/tests3.rs" afterDir="false" />
@@ -48,11 +53,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/test3.rs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/macros/macros1.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="290">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/macros/macros2.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -89,6 +107,8 @@
         <option value="$PROJECT_DIR$/exercises/test2.rs" />
         <option value="$PROJECT_DIR$/exercises/strings/strings1.rs" />
         <option value="$PROJECT_DIR$/exercises/strings/strings2.rs" />
+        <option value="$PROJECT_DIR$/exercises/macros/macros1.rs" />
+        <option value="$PROJECT_DIR$/exercises/macros/macros2.rs" />
       </list>
     </option>
   </component>
@@ -120,6 +140,12 @@
               <item name="rustlings" type="b2602c69:ProjectViewProjectNode" />
               <item name="rustlings" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rustlings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rustlings" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="macros" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rustlings" type="b2602c69:ProjectViewProjectNode" />
@@ -182,16 +208,18 @@
       <workItem from="1571541941436" duration="555000" />
       <workItem from="1571542527229" duration="5313000" />
       <workItem from="1571556143228" duration="142000" />
+      <workItem from="1571559029458" duration="48000" />
+      <workItem from="1571561463407" duration="1245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6010000" />
+    <option name="totallyTimeSpent" value="7303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="35" width="3066" height="1765" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21121559" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2172599" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
@@ -209,7 +237,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info anchor="right" id="Terminal" order="5" visible="true" weight="0.3294157" />
+      <window_info active="true" anchor="right" id="Terminal" order="5" visible="true" weight="0.3294157" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +486,25 @@
     <entry file="file://$PROJECT_DIR$/exercises/test3.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/macros/macros1.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/macros/macros2.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
