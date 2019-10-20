@@ -2,9 +2,10 @@
 // Make me compile without changing line 10! Scroll down for hints :)
 
 fn main() {
-    let vec0 = Vec::new();
-
-    let mut vec1 = fill_vec(vec0);
+    let vec0: Vec<i32> = Vec::new();
+    let vec_dup = Vec::new();
+    //let mut vec1 = fill_vec(&vec0);
+    let mut vec1 = fill_vec(vec_dup);
 
     // Do not change the following line!
     println!("{} has length {} content `{:?}`", "vec0", vec0.len(), vec0);
@@ -15,6 +16,7 @@ fn main() {
 }
 
 fn fill_vec(vec: Vec<i32>) -> Vec<i32> {
+    //let mut vec = vec.clone();
     let mut vec = vec;
 
     vec.push(22);
@@ -23,19 +25,6 @@ fn fill_vec(vec: Vec<i32>) -> Vec<i32> {
 
     vec
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // So `vec0` is being *moved* into the function `fill_vec` when we call it on
 // line 7, which means it gets dropped at the end of `fill_vec`, which means we
