@@ -10,7 +10,13 @@ pub fn pop_too_much() -> bool {
     let last = list.pop().unwrap();
     println!("The last item in the list is {:?}", last);
 
-    let second_to_last = list.pop().unwrap();
+    let second_to_last = match list.pop() {
+        Some(thing) => thing,
+        None => {
+            println!("error, return the error number");
+            0
+        }
+    };
     println!(
         "The second-to-last item in the list is {:?}",
         second_to_last
@@ -27,28 +33,6 @@ mod tests {
         assert!(pop_too_much(), true);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // Try using a `match` statement where the arms are `Some(thing)` and `None`.
 // Or set a default value to print out if you get `None` by using the
