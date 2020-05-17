@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed93d9a4-a460-4e4f-836e-942ad4c1c298" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-5cf9e08cfcd1895a/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-5cf9e08cfcd1895a/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-5cf9e08cfcd1895a/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-5cf9e08cfcd1895a/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-66ffa420e8293d18/build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-66ffa420e8293d18/build_script_build-66ffa420e8293d18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-66ffa420e8293d18/build_script_build-66ffa420e8293d18.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-7e8ded26ae9dfc7e/build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-7e8ded26ae9dfc7e/build_script_build-7e8ded26ae9dfc7e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-7e8ded26ae9dfc7e/build_script_build-7e8ded26ae9dfc7e.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-c73490ff38f5b06c/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-c73490ff38f5b06c/out/probe0.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-c73490ff38f5b06c/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-c73490ff38f5b06c/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-c73490ff38f5b06c/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-87513138229732fc/build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-87513138229732fc/build_script_build-87513138229732fc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-87513138229732fc/build_script_build-87513138229732fc.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-bdc2f4c6723807e8/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-bdc2f4c6723807e8/out/probe0.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-bdc2f4c6723807e8/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-bdc2f4c6723807e8/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-bdc2f4c6723807e8/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-bdc3647588754b98/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-bdc3647588754b98/out/probe0.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-bdc3647588754b98/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-bdc3647588754b98/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-bdc3647588754b98/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-ff291b19d7797847/build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-ff291b19d7797847/build_script_build-ff291b19d7797847" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-ff291b19d7797847/build_script_build-ff291b19d7797847.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="aseo65kl" />
+  </component>
+  <component name="ProjectId" id="1c26nkHWHHNLONqr0cd1ESQMoBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed93d9a4-a460-4e4f-836e-942ad4c1c298" name="Default Changelist" comment="" />
+      <created>1589714509213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589714509213</updated>
+      <workItem from="1589714510605" duration="2564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
