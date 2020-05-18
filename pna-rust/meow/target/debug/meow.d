@@ -1,0 +1,1 @@
+/home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/meow/target/debug/meow: /home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/meow/src/cli.yml /home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/meow/src/main.rs
