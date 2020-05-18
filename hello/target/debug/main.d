@@ -1,0 +1,1 @@
+/home/zhou/Documents/talent-plan/courses/rust/prerequiresites/hello/target/debug/main: /home/zhou/Documents/talent-plan/courses/rust/prerequiresites/hello/src/bin/main.rs /home/zhou/Documents/talent-plan/courses/rust/prerequiresites/hello/src/lib.rs

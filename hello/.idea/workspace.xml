@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
@@ -13,43 +31,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed93d9a4-a460-4e4f-836e-942ad4c1c298" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-5cf9e08cfcd1895a/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-5cf9e08cfcd1895a/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-5cf9e08cfcd1895a/root-output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-5cf9e08cfcd1895a/stderr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-66ffa420e8293d18/build-script-build" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-66ffa420e8293d18/build_script_build-66ffa420e8293d18" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/libc-66ffa420e8293d18/build_script_build-66ffa420e8293d18.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-7e8ded26ae9dfc7e/build-script-build" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-7e8ded26ae9dfc7e/build_script_build-7e8ded26ae9dfc7e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-7e8ded26ae9dfc7e/build_script_build-7e8ded26ae9dfc7e.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-c73490ff38f5b06c/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-c73490ff38f5b06c/out/probe0.ll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-c73490ff38f5b06c/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-c73490ff38f5b06c/root-output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand-c73490ff38f5b06c/stderr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-87513138229732fc/build-script-build" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-87513138229732fc/build_script_build-87513138229732fc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-87513138229732fc/build_script_build-87513138229732fc.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-bdc2f4c6723807e8/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-bdc2f4c6723807e8/out/probe0.ll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-bdc2f4c6723807e8/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-bdc2f4c6723807e8/root-output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_chacha-bdc2f4c6723807e8/stderr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-bdc3647588754b98/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-bdc3647588754b98/out/probe0.ll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-bdc3647588754b98/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-bdc3647588754b98/root-output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-bdc3647588754b98/stderr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-ff291b19d7797847/build-script-build" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-ff291b19d7797847/build_script_build-ff291b19d7797847" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../guessing_game/target/debug/build/rand_pcg-ff291b19d7797847/build_script_build-ff291b19d7797847.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/hello-6677b1440dc7e762" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/hello-6677b1440dc7e762" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/hello" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/hello" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/139nlavdel2lavs0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/152u3yj7obfrop6q.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/1aw2qrj052gdonyz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/1biy8lspaa4e4w0x.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/1bj6z708zhmcp63c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/1hl9vlk6u3ms73yd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/1j9fzg7kr336sybx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/1nevntehr1ud7o2r.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/1oq9ljv5iacxp38w.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/1pdh8wkps9cmrw6l.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/1tvoprassmdf9kvc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/1zicnax9xt54fqsf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/24ija6fljdluacv4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/2l1ph4333j4we099.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/2otu48hazkr8g02f.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/2qllk9t8w282r7nx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/2whsdqbq6ysvjwq3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/2xmbt1qrclz52xz4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/32ktv8w2380b3j1y.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/3315rxt77xbwz4rp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/38ct4of5xo3bntk6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/3aj15qh66sne3pi3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/3ciz7b23lpa9czhz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/3f9dh4otbgrjxnl5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/3fsv4iyxac55d9a7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/3l681c0lu7wx16je.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/3ov6x2xqw0n7egmk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/3p22yds86rcue79o.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/3riygls0tp31lpkb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/3sboeh6aat55qsmu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/41wcujoho8q9bnsr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/48qj18fp7d7l52ui.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4a9uioy5r82fc3xm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4co2zz9c40ar2e4c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4crdmindai8tykkz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4f6z6zmmb1moxf8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4lif06jj2lm02jch.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4ln7phdh2z8urspg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4md19l9dhr0gej7x.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4r1evnvhtf1p19qz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4vta4ucuxwt1n4cx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4yu0tdz3rwlurw39.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/4yy5xllmv2uxdmcd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/54nuyq174w93exly.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/55a7k6ya12uq8bfq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/566sj5gc2afv5fs8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/5rh1zg8y06yo6wh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/8qrn9zlps1aifk5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/97mv6i9wj968mtp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/umnzjyiyhdemwsn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw-1vyh47v0en6it/x544ze0v4oq4ywx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-3npl364oyil3t/s-fnieha7d2r-17qo1iw.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -64,12 +118,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/bin" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
@@ -84,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589714509213</updated>
-      <workItem from="1589714510605" duration="2564000" />
+      <workItem from="1589714510605" duration="14508000" />
     </task>
     <servers />
   </component>
