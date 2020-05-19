@@ -1,0 +1,11 @@
+/home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/kvs/target/debug/deps/proc_macro_error-2c838edc196ecf4b.rmeta: /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/lib.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/dummy.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/diagnostic.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/macros.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/imp/delegate.rs
+
+/home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/kvs/target/debug/deps/libproc_macro_error-2c838edc196ecf4b.rlib: /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/lib.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/dummy.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/diagnostic.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/macros.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/imp/delegate.rs
+
+/home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/kvs/target/debug/deps/proc_macro_error-2c838edc196ecf4b.d: /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/lib.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/dummy.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/diagnostic.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/macros.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/imp/delegate.rs
+
+/home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/lib.rs:
+/home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/dummy.rs:
+/home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/diagnostic.rs:
+/home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/macros.rs:
+/home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-0.4.12/src/imp/delegate.rs:

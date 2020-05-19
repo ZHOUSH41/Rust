@@ -31,12 +31,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d41c8df-811c-4d6a-ba29-037923410cd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bin/kvs.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../hello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../meow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../meow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kvs/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kvs/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bin/kvs.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/bin/kvs.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/kvs-7cf55bea030e6ca4/bin-kvs-7cf55bea030e6ca4" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/kvs-7cf55bea030e6ca4/bin-kvs-7cf55bea030e6ca4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/kvs" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/kvs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +77,7 @@
     <property name="org.rust.hideDetachedFileNotifications/home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/kvs/src/lib.rs" value="true" />
     <property name="org.rust.hideDetachedFileNotifications/home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/kvs/tests/tests.rs" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cargo Command.Test cli_no_args">
     <configuration name="Run kvs" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="channel" value="DEFAULT" />
       <option name="command" value="run --package kvs --bin kvs" />
@@ -88,13 +91,14 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+    <configuration name="Test cli_no_args" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="channel" value="DEFAULT" />
-      <option name="command" value="run" />
+      <option name="command" value="test --package kvs --test tests cli_no_args -- --exact" />
       <option name="allFeatures" value="false" />
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
@@ -102,12 +106,14 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo Command.Test cli_no_args" />
         <item itemvalue="Cargo Command.Run kvs" />
       </list>
     </recent_temporary>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -119,7 +125,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589812955909</updated>
-      <workItem from="1589812957306" duration="4806000" />
+      <workItem from="1589812957306" duration="5973000" />
+      <workItem from="1589874630142" duration="2618000" />
     </task>
     <servers />
   </component>
@@ -133,5 +140,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1589876528142">
+      <screen x="67" y="27" width="1533" height="872" />
+    </state>
+    <state x="709" y="220" width="672" height="678" key="search.everywhere.popup/67.27.1533.872@67.27.1533.872" timestamp="1589876528142" />
   </component>
 </project>
