@@ -1,0 +1,11 @@
+/home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/kvs/target/debug/deps/proc_macro2-ef265785e3226807.rmeta: /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/lib.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/parse.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/detection.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/fallback.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/wrapper.rs
+
+/home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/kvs/target/debug/deps/libproc_macro2-ef265785e3226807.rlib: /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/lib.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/parse.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/detection.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/fallback.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/wrapper.rs
+
+/home/zhou/Documents/talent-plan/courses/rust/prerequiresites/pna-rust/kvs/target/debug/deps/proc_macro2-ef265785e3226807.d: /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/lib.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/parse.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/detection.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/fallback.rs /home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/wrapper.rs
+
+/home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/lib.rs:
+/home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/parse.rs:
+/home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/detection.rs:
+/home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/fallback.rs:
+/home/zhou/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.13/src/wrapper.rs:
