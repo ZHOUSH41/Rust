@@ -1,5 +1,5 @@
 extern crate clap;
-use clap::{Arg, App, SubCommand, AppSettings};
+use clap::{App, AppSettings, Arg, SubCommand};
 use std::process::exit;
 
 fn main() {
