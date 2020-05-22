@@ -1,7 +1,6 @@
 extern crate clap;
 use clap::{App, AppSettings, Arg, SubCommand};
 use std::process::exit;
-
 fn main() {
     let matches = App::new(env!("CARGO_PKG_NAME"))
         .version(env!("CARGO_PKG_VERSION"))
